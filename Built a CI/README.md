@@ -11,7 +11,7 @@ This project implements a CI/CD pipeline using **AWS**, **Jenkins**, **SonarQube
 - **Purpose:** Hosting EC2 instances for Jenkins, SonarQube, and Docker.
 - **Download Link:** [AWS Free Tier](https://aws.amazon.com/free/)
 - **Key Steps:**
-  - Launch three EC2 instances with Ubuntu or CentOS.
+  - Launch three EC2 instances with Ubuntu.
   - Ensure security groups allow necessary ports (e.g., 8080 for Jenkins, 9000 for SonarQube, and 2375 for Docker).
 
 ---
