@@ -1,4 +1,4 @@
-# CI/CD Pipeline Implementation
+# Built a CI/CD pipeline using AWS, Jenkins, SonarQube, Docker, and GitHub to automate code quality checks, containerization, and deployments.
 
 ## Project Overview
 This project implements a CI/CD pipeline using **AWS**, **Jenkins**, **SonarQube**, **Docker**, and **GitHub** to automate code quality analysis, application containerization, and deployment workflows. The pipeline is designed to streamline deployment processes, enhance code quality, and reduce manual intervention.
