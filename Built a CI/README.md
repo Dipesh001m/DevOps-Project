@@ -73,7 +73,10 @@ This project implements a CI/CD pipeline using **AWS**, **Jenkins**, **SonarQube
      ```bash
      docker run hello-world
      ```
-
+  4. Give permission to docker
+     ```bash
+     sudo usermod -aG docker $USER
+     ```
 ---
 
 ### 5. **GitHub**
